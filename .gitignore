@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Credentials (safety)
+*.token
+*.credentials.json
+credentials/
+
+# Test files
+test_*.txt
+*.test
